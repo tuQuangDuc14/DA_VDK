@@ -1,0 +1,7 @@
+https://how2electronics.com/interfacing-max30100-pulse-oximeter-sensor-arduino/
+https://morf.lv/implementing-pulse-oximeter-using-max30100
+https://github.com/xcoder123/MAX30100
+https://www.programmersought.com/article/85637389774/
+https://www.instructables.com/Pulse-Oximeter-With-Much-Improved-Precision/
+https://how2electronics.com/interfacing-max30100-pulse-oximeter-sensor-arduino/
+https://www.element14.com/community/thread/54733/l/how-to-compute-heart-rate-and-spo2-from-max30100
